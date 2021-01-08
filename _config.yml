@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Sylvestre Okafor
+title: Sylvestre Okafor | Data Scientist
+description: Descriptive Data Scientist focused on building ETL pipelines, and predictive models, beautiful dashboards and interactive user experiences
+url: https://Sylvestre5.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: sylvestreanderson5@gmail.com
+cover: https://Sylvestre5.github.io/img/og.png
+logo: https://Sylvestre5.github.io/img/emojis/technologist.png
+resume: https://Sylvestre5.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:sylvestreanderson5@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/sylvestreanders
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/slykeyzz
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/sylvestre5
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/ikenna-sylvestre-okafor-b7094296/
 
 # Build settings
 markdown: kramdown
