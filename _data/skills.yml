@@ -20,7 +20,7 @@ tools:
   - item: PostgreSQL
   - item: Trello
 
-spec:
+specs:
   - item: End to End (E2E) Testing
   - item: Fuzz Testing
   - item: Functional Testing
