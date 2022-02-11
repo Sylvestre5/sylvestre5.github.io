@@ -1,12 +1,12 @@
 # Site settings
-name: Sylvestre Okafor
-title: Sylvestre Okafor | Data Scientist
-description: Descriptive Data Scientist focused on building ETL pipelines, and predictive models, beautiful dashboards and interactive user experiences
+name: Ikenna Sylvestre Okafor
+title: Ikenna Sylvestre Okafor | Software QA Engineer
+description: Experienced QA Engineer with comprehensive expertise in Software testing, focused on providing feedback to improve software product quality and usability. 
 url: https://Sylvestre5.github.io/
 baseurl: ''
 email: sylvestreanderson5@gmail.com
 cover: https://Sylvestre5.github.io/img/og.png
-resume: https://Sylvestre5.github.io/resume.pdf
+resume: https://Sylvestre5.github.io/IKENNA QA CV.pdf
 social:
   - title: email
     url: mailto:sylvestreanderson5@gmail.com
