@@ -17,11 +17,10 @@ tools:
   - item: Git & Github
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
   - item: PostgreSQL
   - item: Trello
 
-specs:
+spec:
   - item: End to End (E2E) Testing
   - item: Fuzz Testing
   - item: Functional Testing
