@@ -28,6 +28,7 @@ tools:
 
 specs:
   - item: Mobile Testing
+  - item: Web Testing
   - item: Regression Testing
   - item: End to End (E2E) Testing
   - item: Smoke Testing
