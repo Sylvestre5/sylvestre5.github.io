@@ -15,15 +15,25 @@ frameworks:
 tools:
   - item: Jira
   - item: Git & Github
-  - item: Chrome DevTools
+  - item: Charles Proxy
   - item: Postman
-  - item: PostgreSQL
-  - item: Trello
+  - item: Swagger
+  - item: TestRails
+  - item: CleverTap
+  - item: DataDog
+  - item: CucumberStudio
+  - item: BrowserStack
+  - item: Android Studio
+  - item: Xcode
 
 specs:
-  - item: End to End (E2E) Testing
-  - item: Fuzz Testing
-  - item: Functional Testing
-  - item: User Testing
-  - item: Test Plan, Cases and Documentation
+  - item: Mobile Testing
   - item: Regression Testing
+  - item: End to End (E2E) Testing
+  - item: Smoke Testing
+  - item: Functional Testing
+  - item: Exploratory Testing
+  - item: Static Code Testing
+  - item: Bug Reporting and Debugging
+  - item: Test Plan, Cases and Documentation
+ 
